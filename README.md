@@ -83,3 +83,7 @@ Before pushing to Heroku, run `npm run build` in terminal. This will create a bu
 ## Known Issues
 1. Attendee info database not encrypted
 1. Nav dropdown doesn't go away unless clicks happen in the navbar
+
+## Contributors
+- [Prime Digital Academy](https://primeacademy.io)
+- [Online Growth Systems](https://onlinegrowthsystems.com)
